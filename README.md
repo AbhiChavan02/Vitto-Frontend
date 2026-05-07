@@ -31,6 +31,7 @@ https://vitto-front.netlify.app
 
 ## Project Structure
 
+```text
 src/
 ├── api/
 ├── components/
@@ -38,6 +39,7 @@ src/
 ├── services/
 ├── App.jsx
 └── main.jsx
+```
 
 ---
 
